@@ -3,7 +3,7 @@ import React from "react";
 const TShirt = ({ tshirt, handleAddToCart }) => {
   const { _id, index, price, picture, name, gender } = tshirt;
   return (
-    <div className="border bottom-1 border-gray-300 rounded-[10px] w-[250px] px-[30px] py-[20px] mx-auto">
+    <div className="border-t border-l border-gray-200 rounded-[10px] w-[250px] px-[30px] py-[20px] mx-auto shadow-lg">
       <img
         src={picture}
         alt="t-shirt-image"

@@ -4,6 +4,7 @@ const Cart = ({ cart, handleRemoveFromeCart }) => {
   return (
     <div>
       <h2 className="text-xl font-semibold">Order Summary {cart.length}</h2>
+      {cart.length > 1 ? <span>You have already buy many t-shirt</span> : <span>Please buy t-shirt</span>}
       {cart.map((tshirt) => (
         <p key={tshirt._id}>
           {tshirt.name}

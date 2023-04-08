@@ -54,5 +54,21 @@
       "picture": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
       "name": "Black Skull",
       "gender": "female"
+    },
+    {
+      "_id": "623853b2736f19fd4eb8d44",
+      "index": 7,
+      "price": 49,
+      "picture": "https://images.pexels.com/photos/3399995/pexels-photo-3399995.jpeg?cs=srgb&dl=pexels-tp-dai-3399995.jpg&fm=jpg",
+      "name": "Black soft t-shirt",
+      "gender": "both"
+    },
+    {
+      "_id": "623853b2736f19fd4eb8d4",
+      "index": 8,
+      "price": 59,
+      "picture": "https://mirzacdns3.s3.ap-south-1.amazonaws.com/cache/catalog/RHP1156/1-445x618.jpg",
+      "name": "Soft t-shirt",
+      "gender": "both"
     }
   ]

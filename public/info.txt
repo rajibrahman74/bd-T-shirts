@@ -1,0 +1,9 @@
+ * CONDITIONAL RENDERING
+ * 1. use if or if else to set a variable that will contain an element, components
+ * 2. ternary operator: condition ? 'for true' : 'false'
+ * 3. Logical &&: (if the condition is true then the next thing will be displayed)
+ * 4. Logical ||: (if the condition is false then the next thing will be displayed)
+
+ * CONDITIONAL CSS Class
+ * 1. use ternary 
+ * 2. ternary inside template string
